@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-TesteTecnico/static/css/main.ef0ca454.chunk.css",
+    "main.js": "/React-TesteTecnico/static/js/main.b3bcc1d3.chunk.js",
+    "main.js.map": "/React-TesteTecnico/static/js/main.b3bcc1d3.chunk.js.map",
+    "runtime-main.js": "/React-TesteTecnico/static/js/runtime-main.b2c1abe0.js",
+    "runtime-main.js.map": "/React-TesteTecnico/static/js/runtime-main.b2c1abe0.js.map",
+    "static/js/2.0f561abb.chunk.js": "/React-TesteTecnico/static/js/2.0f561abb.chunk.js",
+    "static/js/2.0f561abb.chunk.js.map": "/React-TesteTecnico/static/js/2.0f561abb.chunk.js.map",
+    "static/js/3.f17ce47d.chunk.js": "/React-TesteTecnico/static/js/3.f17ce47d.chunk.js",
+    "static/js/3.f17ce47d.chunk.js.map": "/React-TesteTecnico/static/js/3.f17ce47d.chunk.js.map",
+    "index.html": "/React-TesteTecnico/index.html",
+    "static/css/main.ef0ca454.chunk.css.map": "/React-TesteTecnico/static/css/main.ef0ca454.chunk.css.map",
+    "static/js/2.0f561abb.chunk.js.LICENSE.txt": "/React-TesteTecnico/static/js/2.0f561abb.chunk.js.LICENSE.txt",
+    "static/media/image02.e6066cd7.jpg": "/React-TesteTecnico/static/media/image02.e6066cd7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2c1abe0.js",
+    "static/js/2.0f561abb.chunk.js",
+    "static/css/main.ef0ca454.chunk.css",
+    "static/js/main.b3bcc1d3.chunk.js"
+  ]
+}
